@@ -4,7 +4,11 @@ A modern, fully responsive landing page built using **HTML** and **CSS**.
 The layout adapts seamlessly to different screen sizes, providing a smooth user experience across devices.
 
 ---
+🚀 Live Demo
+Check out the live site here:
+https://kushwith03.github.io/SCT_WD_1/
 
+---
 
 ## 📌 Features
 - **Fully responsive** design for mobile, tablet, and desktop
