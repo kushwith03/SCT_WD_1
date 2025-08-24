@@ -15,14 +15,13 @@ body {
 .nav-bar:hover {
   background-color: black;
 }
-.nav-bar p {
-  display: inline;
+.nav-bar a {
   margin-right: 2rem;
+  color: white;
 }
 
-p:hover {
+a:hover {
   color: blue;
-  transform: scale(1.2);
 }
 .home {
   background: url("https://picsum.photos/1920/1080?random=1") no-repeat center
@@ -86,9 +85,11 @@ a {
   .services-list {
     flex-direction: column;
   }
-  .nav-bar {
-    flex-direction: column;
-    justify-content: space-between;
+  .nav-bar a {
+    margin-right: 1.5rem;
+  }
+  .myname {
+    display: none;
   }
 }
 
